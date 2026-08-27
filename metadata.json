@@ -1,0 +1,6 @@
+{
+  "name": "TileLens - Android ML Visual Ceramic Search",
+  "description": "Standalone 100% Offline Android App with Kotlin, Jetpack Compose, TensorFlow Lite CLIP Embeddings, Vector Cosine Similarity, and Room DB.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
